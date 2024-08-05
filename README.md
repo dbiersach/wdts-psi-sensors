@@ -1,2 +1,2 @@
-# wdts-psi-sensors
-WDTS Pathways Summer Institute - Sensor Labs
+# WDTS Pathways Summer Institute - Sensor Labs
+## Using CircuitPython and Google Colab
